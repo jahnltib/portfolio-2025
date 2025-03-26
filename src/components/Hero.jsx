@@ -107,6 +107,8 @@ const Hero = () => {
                 classes="reveal-up"
                 label="Resume"
                 icon="download"
+                href="/jahntibayan2025.pdf" 
+                download="jahntibayan2025.pdf"
               />
               {socialLinks.map(({ href, icon }, key) => (
                 <a

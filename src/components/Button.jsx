@@ -58,7 +58,8 @@ const ButtonOutline = ({
   target = '_self',
   label,
   icon,
-  classes
+  classes,
+  download
 }) => {
   if (href) {
     return (
@@ -66,6 +67,7 @@ const ButtonOutline = ({
         href={href}
         target={target}
         className={"btn btn-outline " + classes}
+        download={download ? download : undefined}
       >
         {label}
 
@@ -98,7 +100,8 @@ ButtonOutline.propTypes = {
   href: PropTypes.string,
   target: PropTypes.string,
   icon: PropTypes.string,
-  classes: PropTypes.string
+  classes: PropTypes.string,
+  download: PropTypes.string
 }
 
 export {
