@@ -6,37 +6,37 @@ const works = [
     imgSrc: '/images/project-1.png',
     title: 'Product Review Aggregator',
     tags: ['React', 'Express.Js', 'TypeScript', 'MongoDB', 'Puppeteer', 'Gemini API', 'YouTube Data API'],
-    projectLink: 'https://musify-5al0.onrender.com/'
+    projectLink: 'https://github.com/jahnltib/reviewpal.me'
   },
   {
     imgSrc: '/images/project-2.png',
     title: 'AI Flashcard Platform',
     tags: ['Next.Js', 'JavaScript', 'Firebase', 'Material-UI', 'Clerk', 'OpenAI API'],
-    projectLink: 'https://pixstock-official.vercel.app/'
+    projectLink: 'https://studyzap.vercel.app'
   },
   {
     imgSrc: '/images/project-3.png',
     title: 'Self-Hosted LinkTree Clone',
     tags: ['Next.Js', 'TailwindCSS', 'Supabase'],
-    projectLink: ''
+    projectLink: 'https://github.com/jahnltib/nextjs-linktree-clone'
   },
   {
     imgSrc: '/images/project-4.png',
     title: 'NBA Trivia Website',
     tags: ['React', 'Bootstrap', 'JavaScript'],
-    projectLink: 'https://github.com/codewithsadee-org/wealthome'
+    projectLink: 'https://nbatrivia.netlify.app'
   },
   {
     imgSrc: '/images/project-5.png',
     title: 'Real Estate Page',
     tags: ['HTML/CSS', 'Bootstrap'],
-    projectLink: 'https://github.com/codewithsadee/anon-ecommerce-website'
+    projectLink: 'https://github.com/jahnltib/bootstrap-real-estate-website'
   },
   {
     imgSrc: '/images/project-6.png',
     title: 'Predicting Tobacco Use in the Youth',
     tags: ['Numpy', 'Pandas', 'Matplotlib', 'Scikit-Learn'],
-    projectLink: 'https://github.com/codewithsadee/vcard-personal-portfolio'
+    projectLink: 'https://github.com/jahnltib/predicting-tobacco-use-in-youth'
   },
 ];
 
